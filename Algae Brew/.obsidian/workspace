@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "3db2758a33446d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ac1c10977fa2979",
+        "type": "leaf",
+        "dimension": 49.129593810444874,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on Papers/New procedure for extraction of algal lipids from wet biomass A green clean and scalable process.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "31a93fceba3d62b9",
+        "type": "leaf",
+        "dimension": 50.870406189555126,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on Papers/Extraxtion of Algae Oil from Nannocloropsis sp. A Study of Soxhlet and Ultrasonic-Assisted Extractions.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d9f9651fbee6682",
+    "type": "split",
+    "children": [
+      {
+        "id": "a152893effe0c495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3610e30747624b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "33f4221a58000702",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311
+  },
+  "right": {
+    "id": "6b4bca31d2a0fa87",
+    "type": "split",
+    "children": [
+      {
+        "id": "f39aa1d25d496240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7c7fbdae1a4b97f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes on Papers/New procedure for extraction of algal lipids from wet biomass A green clean and scalable process.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Notes on Papers/New procedure for extraction of algal lipids from wet biomass A green clean and scalable process.md",
+    "Notes on Papers/Extraxtion of Algae Oil from Nannocloropsis sp. A Study of Soxhlet and Ultrasonic-Assisted Extractions.md",
+    "Stages/Algae/Stage 1.md",
+    "Stages/Lipid Extraction/Stage 2.md",
+    "Stages/Lipid Extraction/Stage 1.md",
+    "Stages/Algae/Untitled.md",
+    "Stages/Plans.md",
+    "Papers/Lipid Extraction/Extraction of algae oil from nannocloropsis sp. A study of Soxhlet and Ultrasonic-Assisted Extractions.pdf",
+    "Stages/Untitled.md",
+    "Notes on Papers/Untitled.md"
+  ]
+}
