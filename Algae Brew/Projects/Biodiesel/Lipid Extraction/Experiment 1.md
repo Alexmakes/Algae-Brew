@@ -1,4 +1,4 @@
-# Stage 1 - Basic Soxhlet reaction
+# Experiment 1 - Basic Soxhlet reaction
 
 Firstly step of this project is recreating the paper [[Extraction of algae oil from nannocloropsis sp. A study of Soxhlet and Ultrasonic-Assisted Extractions.pdf]].
 

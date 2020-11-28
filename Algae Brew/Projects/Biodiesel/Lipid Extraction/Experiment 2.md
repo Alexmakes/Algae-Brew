@@ -1,4 +1,4 @@
-# Stage 2 - Comparing with SDEP
+# Experiment 2 - Comparing with SDEP
 
 Next step of this project is recreating the paper [[New procedure for extraction of algal lipids from wet biomass A green clean and scalable process.pdf]]].
 
